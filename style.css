@@ -1,0 +1,41 @@
+
+body{
+    background-image: url(download\ \(1\).png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.first2{
+    font-style: italic;
+    font-weight: lighter;
+    text-transform: capitalize;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.text1{
+    text-transform: capitalize;
+    position: relative;
+    left: 50px;
+    font-style: italic;
+    font-weight: lighter;
+    text-decoration: underline;
+}
+.position1{
+    position: relative;
+    left: 70px;
+    
+}
+.img20{
+    position: relative;
+    bottom: 1390px;
+    text-align: center;
+}
+a.my-link2:hover{
+    text-decoration: underline;
+    color: blue;
+    text-transform: capitalize;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: center;
+    font-size: 50px;
+}

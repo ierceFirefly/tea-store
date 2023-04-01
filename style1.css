@@ -1,0 +1,27 @@
+.first1{
+text-align: center;
+text-transform: capitalize;
+font-style: italic;
+font-weight: bold;
+font-family: 'Courier New', Courier, monospace;
+}
+#nav-menu{
+    height: 100px;
+    width: 500px;
+    background-color: aqua;
+    margin:0 auto;
+}
+#nav-menu ul,li{
+    float: left;
+    list-style-type: none;
+    margin: 20px;
+}
+#nav-menu ul,li,a{
+    font-size: 25px;
+    text-decoration: none;
+    cursor: crosshair;
+}
+#nav-menu a:hover{
+    text-decoration: underline;
+
+}
